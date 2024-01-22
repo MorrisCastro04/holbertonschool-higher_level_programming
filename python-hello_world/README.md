@@ -7,3 +7,5 @@ task 2: print the float stored in the variable number with a precision of 2 digi
 task 3: print 3 times a string stored in the variable str, followed by its first 9 characters.
 
 task 4: concat str1 and str2 to print Welcome to Holberton School!
+
+task 5: print the first 3 letter, then the las 2 letter then delete the first and last letter
