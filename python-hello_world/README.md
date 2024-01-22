@@ -1,0 +1,1 @@
+Firsy python work
