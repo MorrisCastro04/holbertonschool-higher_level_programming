@@ -1,0 +1,1 @@
+task 0: assign a random signed number to the variable number each time it is executed. Print whether the number stored in the variable number is positive or negative.
