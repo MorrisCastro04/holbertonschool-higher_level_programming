@@ -5,3 +5,5 @@ task 1: Take a random number and print if the las digit is greater than 5, less 
 task 2: prints the ASCII alphabet, in lowercase.
 
 task 3: prints the ASCII alphabet, in lowercase. execpt e and q
+
+task 4: prints all numbers from 0 to 98 in decimal and in hexadecimal
