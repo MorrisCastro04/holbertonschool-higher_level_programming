@@ -2,4 +2,6 @@ task 0: assign a random signed number to the variable number each time it is exe
 
 task 1: Take a random number and print if the las digit is greater than 5, less than 6 and not 0 and if is 0
 
-task 2: prints the ASCII alphabet, in lowercase,
+task 2: prints the ASCII alphabet, in lowercase.
+
+task 3: prints the ASCII alphabet, in lowercase. execpt e and q
