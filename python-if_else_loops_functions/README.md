@@ -25,3 +25,5 @@ task 11: computes a digit to the power of a digit
 task 12: print the fizz buzz
 
 task 100: prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase
+
+task 101: creates a copy of the string, removing the character at the position n
