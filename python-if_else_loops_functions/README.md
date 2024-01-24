@@ -11,3 +11,5 @@ task 4: prints all numbers from 0 to 98 in decimal and in hexadecimal
 task 5: print numbers of 00 to 99
 
 task 6: prints all possible different combinations of two digits
+
+task 8: change all the lowercase letter to uppercase letter
