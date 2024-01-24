@@ -15,3 +15,5 @@ task 6: prints all possible different combinations of two digits
 task 7: check if the character is lowercase 
 
 task 8: change all the lowercase letter to uppercase letter
+
+task 9: print the last digit of a number
