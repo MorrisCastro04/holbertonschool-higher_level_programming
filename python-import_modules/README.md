@@ -1,0 +1,1 @@
+task 0: import a funcion and prints the result
