@@ -19,3 +19,5 @@ task 8: change all the lowercase letter to uppercase letter
 task 9: print the last digit of a number
 
 task 10: sum to digits
+
+task 11: computes a digit to the power of a digit
