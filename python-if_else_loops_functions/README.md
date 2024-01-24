@@ -23,3 +23,5 @@ task 10: sum to digits
 task 11: computes a digit to the power of a digit
 
 task 12: print the fizz buzz
+
+task 100: prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase
