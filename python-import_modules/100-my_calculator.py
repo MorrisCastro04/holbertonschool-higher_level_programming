@@ -22,7 +22,7 @@ elif sys.argv[2] == '*':
     print(f"{a} {operator} {b} = {result}")
 elif sys.argv[2] == '/':
     result = a / b
-    print(f"{a} {operator} {b} = {result}")
+    print(f"{a} {operator} {b} = {int(result)}")
 else:
     print("Unknown operator. Available operators: +, -, * and /")
     exit(1)
