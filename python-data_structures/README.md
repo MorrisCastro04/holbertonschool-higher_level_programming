@@ -13,3 +13,5 @@ task 5: removes all characters c and C from a string.
 task 6: prints a matrix of integers.
 
 task 7: adds 2 tuples
+
+task 8 : returns a tuple with the length of a string and its first character.
