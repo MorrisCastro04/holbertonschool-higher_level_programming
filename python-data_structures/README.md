@@ -19,3 +19,5 @@ task 8 : returns a tuple with the length of a string and its first character.
 task 9: finds the biggest integer of a list.
 
 task 10: finds all multiples of 2 in a list
+
+task 11: deletes the item at a specific position in a list without .pop
