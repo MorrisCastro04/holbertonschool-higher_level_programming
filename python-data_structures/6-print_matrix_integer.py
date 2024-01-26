@@ -4,4 +4,3 @@ def print_matrix_integer(matrix=[[]]):
         for value in row:
             print("{:d}".format(value), end=' ' if value != row[-1] else "")
         print()
-
