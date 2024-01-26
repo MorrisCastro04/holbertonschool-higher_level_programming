@@ -1,0 +1,1 @@
+task 0: prints all integers of a list
