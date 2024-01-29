@@ -7,3 +7,5 @@ task 2: adds all unique integers in a list (only once for each integer).
 task 3: returns a set of common elements in two sets
 
 task 4:returns a set of all elements present in only one set.
+
+task 5: returns the number of keys in a dictionary.
