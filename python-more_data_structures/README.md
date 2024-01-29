@@ -9,3 +9,5 @@ task 3: returns a set of common elements in two sets
 task 4:returns a set of all elements present in only one set.
 
 task 5: returns the number of keys in a dictionary.
+
+task 6: prints a dictionary by ordered keys.
