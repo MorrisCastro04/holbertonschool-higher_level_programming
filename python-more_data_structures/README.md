@@ -19,3 +19,5 @@ task 8: deletes a key in a dictionary.
 task 9: returns a new dictionary with all values multiplied by 2
 
 task 10: returns a key with the biggest integer value.
+
+task 11: returns a list with all values multiplied by a number without using any loops.
