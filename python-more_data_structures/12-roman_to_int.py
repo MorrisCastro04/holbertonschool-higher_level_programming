@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 def roman_to_int(roman_string):
     count = 0
-    if roman_string:
+    if roman_string and type(roman_string) == str:
         temp = 0
         leng = len(roman_string)
         dic = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
