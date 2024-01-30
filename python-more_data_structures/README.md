@@ -17,3 +17,5 @@ task 7: replaces or adds key/value in a dictionary.
 task 8: deletes a key in a dictionary.
 
 task 9: returns a new dictionary with all values multiplied by 2
+
+task 10: returns a key with the biggest integer value.
