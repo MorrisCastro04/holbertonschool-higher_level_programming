@@ -1,0 +1,1 @@
+task 0: empty class Square that defines a square:
