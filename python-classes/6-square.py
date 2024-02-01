@@ -2,21 +2,22 @@
 """A square based on the 5-square.py"""
 
 
-class Square():
+class Square:
     """add a attribute to to give a position to the square"""
 
     def __init__(self, size=0, position=(0, 0)):
-        self.__size = size
-        self.__position = position
+        self.size = size
+        self.position = position
 
     @property
     def size(self):
-        return self.__size
+        return (self.__size)
 
     @property
     def position(self):
-        return self.__position
+        return (self.__position)
 
+    """checks that size in a int above 0"""
     @size.setter
     def size(self, value):
         if type(value) is not int:
@@ -27,15 +28,30 @@ class Square():
             raise ValueError
         self.__size = value
 
+    """checks that position is a tuple"""
     @position.setter
     def position(self, value):
-        if type(value) is not tuple:
-            print("position must be a tuple of 2 positive integers")
-            raise TypeError
+        count = 0
+        while 1:
+            if type(value) != tuple or len(value) != 2:
+                count += 1
+                break
+            if type(value[0]) != int or type(value[1]) != int:
+                count += 1
+                break
+            if value[0] < 0 or value[1] < 0:
+                count += 1
+            break
+        if count == 0:
+            self.__position = value
+        else:
+            raise TypeError("position must be a tuple of 2 positive integers")
 
+    """Return the area"""
     def area(self):
         return self.__size ** 2
 
+    """print the square"""
     def my_print(self):
         if self.__size == 0:
             print()
