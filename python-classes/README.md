@@ -6,4 +6,6 @@ task 2: Write a class Square that defines a square  by: (based on 1-square.py) c
 
 task 3: Write a class Square that defines a square by: (based on 2-square.py) and add a public instance method
 
-task 4:Write a class Square that defines a square by: (based on 3-square.py) add the getter and setter to the size
+task 4: Write a class Square that defines a square by: (based on 3-square.py) add the getter and setter to the size
+
+task 5: Write a class Square that defines a square by: (based on 4-square.py) make a method that print the square
