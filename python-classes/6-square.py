@@ -33,10 +33,10 @@ class Square:
     def position(self, value):
         count = 0
         while 1:
-            if type(value) != tuple or len(value) != 2:
+            if type(value) is not tuple or len(value) is not 2:
                 count += 1
                 break
-            if type(value[0]) != int or type(value[1]) != int:
+            if type(value[0]) is not int or type(value[1]) is not int:
                 count += 1
                 break
             if value[0] < 0 or value[1] < 0:
@@ -57,7 +57,7 @@ class Square:
             print()
         else:
             if self.__position[1] > 0:
-                for i in range(self.__position[1] > 0):
+                for i in range(self.__position[1]):
                     print()
             for i in range(self.__size):
                 for space in range(self.__position[0]):
