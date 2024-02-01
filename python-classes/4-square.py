@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""A square based on the 2-square.py"""
+"""A square based on the 3-square.py"""
 
 
 class Square():
-    """Add a public method called area(self)"""
+    """Add a getter and setter"""
 
     def __init__(self, size=0):
         self.__size = size
