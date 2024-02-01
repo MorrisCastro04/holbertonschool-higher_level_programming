@@ -8,4 +8,6 @@ task 3: Write a class Square that defines a square by: (based on 2-square.py) an
 
 task 4: Write a class Square that defines a square by: (based on 3-square.py) add the getter and setter to the size
 
-task 5: Write a class Square that defines a square by: (based on 4-square.py) make a method that print the square
+task 5: Write a class Square that defines a square by: (based on 4-square.py)  method to print the square
+
+task 6: Write a class Square that defines a square by: (based on 5-square.py) add a attribute to to give a position to the square
