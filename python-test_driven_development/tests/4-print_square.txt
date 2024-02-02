@@ -31,6 +31,9 @@
     >>> os.path.exists(check_readme)
     True
 
+
+    #-------------------------- Tests from 0-main.py --------------------------#
+
     ### Size >= 0
     >>> print_square(4)
     ####
@@ -50,6 +53,8 @@
     ##########
     ##########
     ##########
+
+    #------------------------- Not Correct INT and Types -------------------------#
 
     ### Size is a negative number
     >>> print_square(-3)
