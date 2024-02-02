@@ -1,1 +1,3 @@
 task 0: function that adds 2 integers.
+
+task 1: function that divides all elements of a matrix.
