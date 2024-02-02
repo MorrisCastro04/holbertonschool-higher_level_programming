@@ -4,6 +4,8 @@
     div in the number to divide each number
     the matrix only can have int and float
 """
+
+
 def matrix_divided(matrix, div):
     """
         funcion that divide a matrix
