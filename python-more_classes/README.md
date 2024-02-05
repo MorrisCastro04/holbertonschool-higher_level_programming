@@ -5,3 +5,5 @@ task 1: Write a class Rectangle that defines a rectangle by: (based on 0-rectang
 task 2: Write a class Rectangle that defines a rectangle by: (based on 1-rectangle.py) add the method to find the area and the perimeter
 
 task 3: Write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py) add a method that print the rectangle
+
+task 4: Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py) method with __repr_ to create a representacion of the class 
