@@ -13,3 +13,5 @@ task 5: Write a class Rectangle that defines a rectangle by: (based on 4-rectang
 task 6: Write a class Rectangle that defines a rectangle by: (based on 5-rectangle.py) public class attribute to count the number of instances
 
 task 7: Write a class Rectangle that defines a rectangle by: (based on 6-rectangle.py) public class attribute to symbol to print the Rectangle
+
+task 8: Write a class Rectangle that defines a rectangle by: (based on 7-rectangle.py) method to check what rectangle have the biggest area
