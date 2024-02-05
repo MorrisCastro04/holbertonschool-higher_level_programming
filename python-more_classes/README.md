@@ -6,4 +6,6 @@ task 2: Write a class Rectangle that defines a rectangle by: (based on 1-rectang
 
 task 3: Write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py) add a method that print the rectangle
 
-task 4: Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py) method with __repr_ to create a representacion of the class 
+task 4: Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py) method with __repr_ to create a representacion of the class
+
+task 5: Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py) create a method to print something when the class is deleted
