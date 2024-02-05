@@ -1,0 +1,1 @@
+task 0:  print the type of an object?
