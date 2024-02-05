@@ -9,3 +9,5 @@ task 3: Write a class Rectangle that defines a rectangle by: (based on 2-rectang
 task 4: Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py) method with __repr_ to create a representacion of the class
 
 task 5: Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py) create a method to print something when the class is deleted
+
+task 6: Write a class Rectangle that defines a rectangle by: (based on 5-rectangle.py) method to count the number of instances
