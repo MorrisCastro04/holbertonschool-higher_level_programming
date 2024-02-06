@@ -51,3 +51,5 @@ task 24: write what the script print
 task 25: write what the script print
 
 task 26: write what the script print
+
+task 27: last line of this script print
