@@ -29,3 +29,5 @@ task 13: what the 3 lines of code print
 task 14: write what the script print
 
 task 15: write what the script print
+
+task 16: write what the script print
