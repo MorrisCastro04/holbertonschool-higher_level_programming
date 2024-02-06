@@ -7,3 +7,5 @@ task 2: check is a code if a and b point to the same object
 task 3: check is a code if a and b point to the same object
 
 task 4: check is a code if a and b point to the same object
+
+task 5: check is a code if a and b point to the same object
