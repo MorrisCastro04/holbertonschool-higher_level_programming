@@ -49,3 +49,5 @@ task 23: is a a tuple?
 task 24: write what the script print
 
 task 25: write what the script print
+
+task 26: write what the script print
