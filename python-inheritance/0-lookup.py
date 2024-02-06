@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-    is a funcion to return a list 
+    is a funcion to return a list
     all of available attributes and methods
 """
 
