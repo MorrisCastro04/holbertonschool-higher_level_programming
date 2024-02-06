@@ -10,4 +10,7 @@ task 4: check is a code if a and b point to the same object
 
 task 5: check is a code if a and b point to the same object
 
-task 6: what thoes 3 lines of code print
+task 6: what the 3 lines of code print
+
+task 7: what the 3 lines of code print
+
