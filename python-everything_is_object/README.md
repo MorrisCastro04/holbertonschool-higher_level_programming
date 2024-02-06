@@ -35,3 +35,5 @@ task 16: write what the script print
 task 17: write what the script print
 
 task 18: write what the script print
+
+task 19: create a copy of a list
