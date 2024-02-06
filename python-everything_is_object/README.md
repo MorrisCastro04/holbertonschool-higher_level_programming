@@ -33,3 +33,5 @@ task 15: write what the script print
 task 16: write what the script print
 
 task 17: write what the script print
+
+task 18: write what the script print
