@@ -9,3 +9,5 @@ task 3: returns True if the object is exactly an instance
 task 4: return boolean if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class
 
 task 5: create a empty class
+
+task 6: class with a public method
