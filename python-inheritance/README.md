@@ -15,3 +15,5 @@ task 6: class with a public method
 task 7: Write a class BaseGeometry (based on 6-base_geometry.py)
 
 task 8: Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py)
+
+task 9: add the method area and the method to use print
