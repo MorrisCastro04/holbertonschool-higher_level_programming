@@ -11,3 +11,5 @@ task 4: return boolean if the object is an instance of, or if the object is an i
 task 5: create a empty class
 
 task 6: class with a public method
+
+task 7: Write a class BaseGeometry (based on 6-base_geometry.py) 
