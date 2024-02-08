@@ -12,4 +12,6 @@ task 5: create a empty class
 
 task 6: class with a public method
 
-task 7: Write a class BaseGeometry (based on 6-base_geometry.py) 
+task 7: Write a class BaseGeometry (based on 6-base_geometry.py)
+
+task 8: Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py)
