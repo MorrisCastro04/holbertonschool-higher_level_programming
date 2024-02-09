@@ -7,3 +7,5 @@ task 2: append a string
 task 3: from python to Json
 
 task 4: from Json to python
+
+task 5: writes an Object to a text file
