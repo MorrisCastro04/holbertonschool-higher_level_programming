@@ -1,0 +1,1 @@
+task 0: reads a text file utf-8 and print it
