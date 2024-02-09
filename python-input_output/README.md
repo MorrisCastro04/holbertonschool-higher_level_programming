@@ -9,3 +9,5 @@ task 3: from python to Json
 task 4: from Json to python
 
 task 5: writes an Object to a text file
+
+task 6: creates an Object from a “JSON file”
