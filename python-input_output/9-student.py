@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """student class"""
-import sys
 
 
 class Student():
