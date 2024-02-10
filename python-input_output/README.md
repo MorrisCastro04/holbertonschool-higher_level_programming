@@ -17,3 +17,5 @@ task 7: load, add and save
 task 8: class to json
 
 task 9: create a class student
+
+task 10: return the attributes of attrs like a dict
