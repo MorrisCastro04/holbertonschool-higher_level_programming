@@ -21,3 +21,5 @@ task 9: create a class student
 task 10: return the attributes of attrs like a dict
 
 task 11: reload a class from a Json
+
+task 12: pascal triangle
