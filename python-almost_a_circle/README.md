@@ -1,1 +1,1 @@
-task 0: Create a class named Base with a id 
+task 0: Create a class named Base with a id
