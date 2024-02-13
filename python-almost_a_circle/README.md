@@ -13,3 +13,5 @@ task 5: create the str method to print the info of the class
 task 6: update the method display to move the square
 
 task 7: update the square with *args
+
+task 8: update the update method to add **kargs
