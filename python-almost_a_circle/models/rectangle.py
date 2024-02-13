@@ -75,5 +75,6 @@ class Rectangle(Base):
 
     """display the rectangle"""
     def display(self):
+        """run in each line to print # times the width"""
         for line in range(self.__height):
             print('#' * self.__width)
