@@ -78,3 +78,10 @@ class Rectangle(Base):
         """run in each line to print # times the width"""
         for line in range(self.__height):
             print('#' * self.__width)
+
+    """str method"""
+    def __str__(self):
+        """return the info of the class"""
+        string = f"[Rectangle] ({self.id}) {self.__x}/{self.__y}"
+        string += f" - {self.__width}/{self.__height}"
+        return string
