@@ -12,11 +12,12 @@ class Rectangle(Base):
         self.x = x
         self.y = y
 
-    """set and get of width"""
+    """getter of width"""
     @property
     def width(self):
         return self.__width
 
+    """setter of width"""
     @width.setter
     def width(self, value):
         if type(value) is not int:
@@ -25,11 +26,12 @@ class Rectangle(Base):
             raise ValueError("width must be > 0")
         self.__width = value
 
-    """set and get of height"""
+    """getter of height"""
     @property
     def height(self):
         return self.__height
 
+    """setter of heigth"""
     @height.setter
     def height(self, value):
         if type(value) is not int:
@@ -38,11 +40,12 @@ class Rectangle(Base):
             raise ValueError("height must be > 0")
         self.__height = value
 
-    """set and get of x"""
+    """getter of x"""
     @property
     def x(self):
         return self.__x
 
+    """setter of x"""
     @x.setter
     def x(self, value):
         if type(value) is not int:
@@ -51,11 +54,12 @@ class Rectangle(Base):
             raise ValueError("x must be >= 0")
         self.__x = value
 
-    """set and get of y"""
+    """getter of y"""
     @property
     def y(self):
         return self.__y
 
+    """setter of y"""
     @y.setter
     def y(self, value):
         if type(value) is not int:
