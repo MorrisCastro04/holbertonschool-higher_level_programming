@@ -17,3 +17,5 @@ task 7: update the square with *args
 task 8: update the update method to add **kargs
 
 task 9: Create a class named square inherits from Rectangle
+
+task 10: add a getter and a setter to size
