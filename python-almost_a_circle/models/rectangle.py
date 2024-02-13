@@ -70,4 +70,5 @@ class Rectangle(Base):
 
     """return the area of the circle"""
     def area(self):
+        """height time width"""
         return self.__height * self.__width
