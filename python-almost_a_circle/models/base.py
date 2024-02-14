@@ -27,7 +27,7 @@ class Base():
     def save_to_file(cls, list_objs):
         """checks if list_objs is empty"""
         if list_objs is None:
-            return []
+            list_objs = []
         list_dict = []
         with open(cls.__name__ + ".json", 'w') as file:
             for obj in list_objs:
