@@ -67,5 +67,5 @@ class Base():
             for i in class_dict:
                 class_list.append(cls.create(**i))
             return class_list
-        except:
+        except FileNotFoundError():
             return []
