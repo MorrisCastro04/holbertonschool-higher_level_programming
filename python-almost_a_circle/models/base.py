@@ -34,3 +34,10 @@ class Base():
                 list_dict.append(obj.to_dictionary())
             str_obj = cls.to_json_string(list_dict)
             file.write(str_obj)
+
+    """Json string to dictionary"""
+    @staticmethod
+    def from_json_string(json_string):
+        if json_string is None:
+            return []
+        return json.loads(json_string)

@@ -29,3 +29,5 @@ task 13: add a method to convert to dictionary in the square class
 task 14: convert from Dictionary to a Json string
 
 task 15: save in a file a list of obj
+
+task 16: from a Json string to list
