@@ -59,12 +59,13 @@ class Base():
     def load_from_file(cls):
         """checks if the .json"""
         filename = cls.__name__ + ".json"
-        if filename is None:
+        try:
+            with open(filename, 'r') as file:
+                string = file.read()
+                class_dict = cls.from_json_string(string)
+            class_list = []
+            for i in class_dict:
+                class_list.append(cls.create(**i))
+            return class_list
+        except FileNotFoundError():
             return []
-        with open(filename, 'r') as file:
-            string = file.read()
-            class_dict = cls.from_json_string(string)
-        class_list = []
-        for i in class_dict:
-            class_list.append(cls.create(**i))
-        return class_list
