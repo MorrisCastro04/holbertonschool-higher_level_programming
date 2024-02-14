@@ -25,3 +25,18 @@ class Square(Rectangle):
         string = f"[Square] ({self.id})"
         string += f" {self.x}/{self.y} - {self.height}"
         return string
+    
+    """update the square"""
+    def update(self, *args, **kwargs):
+        """check if is going to use args or kwargs"""
+        if len(args) == 0:
+            for key, value in kwargs.items():
+                setattr(self, key, value)
+        if len(args) >= 1:
+            self.id = args[0]
+        if len(args) >= 2:
+            self.size = args[1]
+        if len(args) >= 3:
+            self.x = args[2]
+        if len(args) == 4:
+            self.y = args[3]
