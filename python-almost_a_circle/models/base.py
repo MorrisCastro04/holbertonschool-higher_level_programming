@@ -15,8 +15,9 @@ class Base():
             self.id = Base.__nb_objects
 
     """dict to json string"""
+    @staticmethod
     def to_json_string(list_dictionaries):
         """checks if list_dict is not None"""
-        if list_dictionaries is None or list_dictionaries == []:
+        if list_dictionaries is None:
             return "[]"
         return json.dumps(list_dictionaries)
