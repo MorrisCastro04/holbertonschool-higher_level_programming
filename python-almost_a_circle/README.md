@@ -31,3 +31,5 @@ task 14: convert from Dictionary to a Json string
 task 15: save in a file a list of obj
 
 task 16: from a Json string to list
+
+task 17: create a new instance
