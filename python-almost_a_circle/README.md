@@ -33,3 +33,5 @@ task 15: save in a file a list of obj
 task 16: from a Json string to list
 
 task 17: create a new instance
+
+task 18: method that load classes from a json file
