@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """class base"""
 import json
+from os import path
 
 
 class Base():
@@ -59,13 +60,12 @@ class Base():
     def load_from_file(cls):
         """checks if the .json"""
         filename = cls.__name__ + ".json"
-        try:
-            with open(filename, 'r') as file:
-                string = file.read()
-                class_dict = cls.from_json_string(string)
-            class_list = []
-            for i in class_dict:
-                class_list.append(cls.create(**i))
-            return class_list
-        except IOError():
+        if path.exists(filename) is False:
             return []
+        with open(filename, 'r') as file:
+            string = file.read()
+            class_dict = cls.from_json_string(string)
+        class_list = []
+        for i in class_dict:
+            class_list.append(cls.create(**i))
+        return class_list
