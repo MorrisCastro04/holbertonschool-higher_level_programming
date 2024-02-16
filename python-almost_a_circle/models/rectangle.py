@@ -106,7 +106,7 @@ class Rectangle(Base):
         if len(args) >= 4:
             self.__x = args[3]
         if len(args) == 5:
-            self.__y == args[4]
+            self.__y = args[4]
 
     """convert to dictionary"""
     def to_dictionary(self):
