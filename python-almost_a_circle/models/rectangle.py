@@ -94,19 +94,20 @@ class Rectangle(Base):
     """update the class rectangle"""
     def update(self, *args, **kwargs):
         """checks if the class have a atribute"""
-        if len(args) == 0:
+        if args:
+            if len(args) >= 1:
+                self.id = args[0]
+            if len(args) >= 2:
+                self.width = args[1]
+            if len(args) >= 3:
+                self.height = args[2]
+            if len(args) >= 4:
+                self.x = args[3]
+            if len(args) >= 5:
+                self.y = args[4]
+        else:
             for key, value in kwargs.items():
                 setattr(self, key, value)
-        if len(args) >= 1:
-            self.id = args[0]
-        if len(args) >= 2:
-            self.__width = args[1]
-        if len(args) >= 3:
-            self.__height = args[2]
-        if len(args) >= 4:
-            self.__x = args[3]
-        if len(args) == 5:
-            self.__y = args[4]
 
     """convert to dictionary"""
     def to_dictionary(self):
