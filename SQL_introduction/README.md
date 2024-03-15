@@ -29,3 +29,5 @@ task 13: script that removes all records with a score <= 5 in the table second_t
 task 14: script that computes the score average of all records in the table second_table
 
 task 15: script that lists the number of records with the same score in the table second_table
+
+task 16: script that lists all records of the table second_table
