@@ -9,3 +9,5 @@ task 3: script that list all the tables of a data base
 task 4: script that creates a table with id and name
 
 task 5: script that print description of how the table has created
+
+task 6:  script that print list all rows of a table
