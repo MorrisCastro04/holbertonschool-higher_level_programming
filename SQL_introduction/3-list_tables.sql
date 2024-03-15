@@ -1,3 +1,3 @@
--- list all the tables of the data TO_BASE
-SHOW TABLES 
+-- lists all the tables of the database in MySQL server
+SHOW TABLES
     FROM mysql;
