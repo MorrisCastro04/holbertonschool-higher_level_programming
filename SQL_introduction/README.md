@@ -20,4 +20,6 @@ task 9: create a second table with records
 
 task 10: script that lists all records of the table second_table of the database ordered by score
 
-task 11: script that lists all records with a score >= 10 in the table second_table ordered by score 
+task 11: script that lists all records with a score >= 10 in the table second_table ordered by score
+
+task 12: Write a script that updates the score of Bob to 10 in the table second_table
