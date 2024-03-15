@@ -10,4 +10,6 @@ task 4: script that creates a table with id and name
 
 task 5: script that print description of how the table has created
 
-task 6:  script that print list all rows of a table
+task 6: script that print list all rows of a table
+
+task 7: script that insert a new row to the table
