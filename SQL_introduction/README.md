@@ -17,3 +17,5 @@ task 7: script that insert a new row to the table
 task 8: script that displays the number of records with id = 89 in a table
 
 task 9: create a second table with records
+
+task 10: script that lists all records of the table second_table of the database ordered by score
