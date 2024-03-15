@@ -15,3 +15,5 @@ task 6: script that print list all rows of a table
 task 7: script that insert a new row to the table
 
 task 8: script that displays the number of records with id = 89 in a table
+
+task 9: create a second table with records
