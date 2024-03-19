@@ -7,3 +7,5 @@ task 2: takes in an argument and displays all values in the states table of hbtn
 task 3: takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument and is protected
 
 task 4: script that lists all cities with the state
+
+task 5: takes in the name of a state as an argument and lists all cities of that state
