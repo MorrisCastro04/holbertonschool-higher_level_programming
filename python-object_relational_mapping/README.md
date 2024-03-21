@@ -15,3 +15,5 @@ task 6:python file that contains the class definition of a State and an instance
 task 7: script that lists all State objects from the database
 
 task 8: script that prints the first State object from the database
+
+task 9: script that lists all State objects that contain the letter a from the database
