@@ -9,3 +9,7 @@ task 3: takes in an argument and displays all values in the states table of hbtn
 task 4: script that lists all cities with the state
 
 task 5: takes in the name of a state as an argument and lists all cities of that state
+
+task 6:python file that contains the class definition of a State and an instance Base
+
+task 7: script that lists all State objects from the database
