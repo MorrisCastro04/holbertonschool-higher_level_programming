@@ -19,3 +19,5 @@ task 8: script that prints the first State object from the database
 task 9: script that lists all State objects that contain the letter a from the database
 
 task 10: script that prints the State object with the name passed as argument from the database
+
+task 11: script that adds the State object “Louisiana” to the database
