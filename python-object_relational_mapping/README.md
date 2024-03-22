@@ -25,3 +25,5 @@ task 11: script that adds the State object “Louisiana” to the database
 task 12: script that changes the name of a State object from the database
 
 task 13: script that deletes all State objects with a name containing the letter a from the database
+
+task 14: create class City and script to print all cities
